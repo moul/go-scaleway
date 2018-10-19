@@ -1,5 +1,7 @@
 # go-scaleway
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/go-scaleway.svg)](https://www.guardrails.io)
+
 [![License GPL 3][badge-license]][LICENSE]
 [![travis][badge-travis]][travis]
 [![drone][badge-drone]][drone]
